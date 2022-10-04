@@ -1,2 +1,2 @@
-# icra2022
+# irim 2022
 Workshop website
